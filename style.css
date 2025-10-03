@@ -1,0 +1,139 @@
+/* body section */
+body{
+    background-color: rgb(102, 48, 48);
+}
+
+/* main div */
+
+.main{
+    display: flex;
+}
+
+/* logo section */
+ 
+h2{
+     color: white;
+     margin-left: 40px;
+     margin-top: 25px;
+     font-size: 37px;
+     font-weight: bold;
+}
+
+/* navbar section */
+.navbar{
+    word-spacing: 15px;
+     margin-left: 700px;
+     margin-top: 40px;
+     font-size: 23px;
+     font-weight: bold;
+     color:white;
+    
+}
+
+.navbar a:hover{
+    color: rgb(235, 145, 27);
+    cursor: pointer;
+    transition-duration: 1s ;
+
+}
+
+.heading{
+    font-size: 45px;
+    margin-top: 120px;
+    margin-left: 40px;
+    color: rgb(235, 145, 27);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.para{
+    font-size: 30px;
+    margin-left: 40px;
+    color:white;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-size: 18px;
+    margin-left: 40px;
+    color: white;
+}
+
+/* button section */
+
+.btn{
+    width: 135px;
+    height: 48px;
+     border-radius: 25px; 
+     margin-left: 40px;
+     font-size: 17px;
+     font-weight: bold;
+    background-color:  rgb(235, 145, 27);
+    color: white;
+     
+}
+
+.btn:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    transition-duration: 1s ;
+
+}
+
+.button{
+    width: 135px;
+    height: 48px;
+     border-radius: 25px; 
+     margin-left: 20px;
+      font-size: 17px;
+     font-weight: bold;
+     background-color: white;
+     
+
+}
+
+.button:hover{                                               
+    background-color: rgb(235, 145, 27);
+    color: white;
+    transition-duration: 1s ;
+
+}
+
+/* img section */
+
+.img{
+    margin-left: 600px;
+    margin-top: 50px;
+    height:500px ;
+    width:500px ;
+}
+
+
+/* footer section */
+
+.logo1{
+    mix-blend-mode: multiply;
+    height:50px ;
+    width:60px ;
+    color: white;
+}
+
+.logo2{
+    mix-blend-mode: multiply;
+    width: 30px ;
+    height:30px ;
+    margin-bottom: 13px;
+    
+
+}
+
+.mainb{
+    display: flex;
+    gap: 550px;
+    margin-top: 88px;
+    background-color:rgb(233, 150, 42) ;
+    
+    
+}
+
